@@ -1,4 +1,17 @@
 # WASD Maze Runner Project
+Fun university game project fully build in Java.
+
+# How to run:
+## Clone the repository:
+```
+git clone https://github.com/flaferty/MazeRunner.git 
+cd MazeRunner
+```
+## Run the game using Gradle:
+```
+./gradlew :desktop:run
+```
+
 ## Code Structure:
 ### MapClass:
 - Loads and manages textures for various map elements like walls, traps, enemies, and items.
@@ -58,3 +71,5 @@ as we used
 - By pressing ```TAB``` the user can see the elapsed time and current level.
 - Walls with different textures;
 - 2 types of traps ( fire and slime);
+
+
