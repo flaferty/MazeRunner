@@ -47,6 +47,7 @@ as we used
 * **Movement:** ```WASD``` and ```arrows``` for moving in different directions.
 * **View Stats:** Press ```TAB``` to view elapsed time and level.
 * **Menu:** Press ```Esc``` to access the game menu.
+* **Attack:** Press  ```Z``` to attack an enemy.
 
 ## Extra features added:
 - A heart has a random chance to spawn on the map and increases the health of the
